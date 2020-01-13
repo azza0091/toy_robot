@@ -1,0 +1,8 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj/x86/Debug
+/toy_robot_tests/obj/Debug
+/toy_robot.csproj.user
